@@ -1,6 +1,6 @@
-CURSO DE JAVA
+CURSO DE JAVA ☕️
 
-Conceitos aprendidos
+📌 Conceitos aprendidos
   - Criação de Listas
   - Manipulação de Elementos da lista (add, remove...)
   - Manipulação de listas com streams e o método filter
