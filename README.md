@@ -1,8 +1,10 @@
-CURSO DE JAVA ☕️
+Curso de Java ☕️
+📌 Conceitos aprendidos:
+Criação de Listas: Como criar e inicializar listas em Java.
 
-📌 Conceitos aprendidos
-  - Criação de Listas
-  - Manipulação de Elementos da lista (add, remove...)
-  - Manipulação de listas com streams e o método filter
+Manipulação de Elementos da lista: Adicionar e remover elementos das listas utilizando métodos como add(), remove(), entre outros.
 
-Também teve um pequeno início sobre a Programação Funcional, como expressões lambdas. Conceito já utilizado nesse mini exercício
+Manipulação de Listas com Streams: Utilização de Streams e o método filter() para realizar operações funcionais sobre listas.
+
+Programação Funcional: Introdução ao conceito de programação funcional, usando expressões lambdas.
+
